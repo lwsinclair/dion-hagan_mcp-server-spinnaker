@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/mcp-mirror-dion-hagan-mcp-server-spinnaker)
+
 # MCP Server for Spinnaker
 
 This package provides a Model Context Protocol (MCP) server implementation for Spinnaker integrations. It allows AI models to interact with Spinnaker deployments, pipelines, and applications through the standardized MCP interface.
